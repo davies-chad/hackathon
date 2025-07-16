@@ -24,3 +24,28 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes emoji-shower {
+  0% {
+    top: -3rem;
+    opacity: 0;
+    transform: scale(1) rotate(-10deg);
+  }
+  10% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+    transform: scale(1.1) rotate(10deg);
+  }
+  100% {
+    top: 90%;
+    opacity: 0;
+    transform: scale(1) rotate(0deg);
+  }
+}
+.emoji-shower {
+  top: 0;
+  pointer-events: none;
+  animation: emoji-shower 1.5s cubic-bezier(0.4, 0.2, 0.2, 1) forwards;
+}

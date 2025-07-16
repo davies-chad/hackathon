@@ -1,0 +1,242 @@
+[
+{
+  "question": "Which NFL team won the Super Bowl in 2024?",
+  "choices": ["Kansas City Chiefs", "San Francisco 49ers", "Philadelphia Eagles", "Buffalo Bills"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Who is known as 'The GOAT' in the NFL?",
+  "choices": ["Tom Brady", "Peyton Manning", "Joe Montana", "Aaron Rodgers"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Which NFL team is based in Green Bay?",
+  "choices": ["Packers", "Vikings", "Bears", "Lions"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Which NFL team is known as 'America's Team'?",
+  "choices": ["Dallas Cowboys", "New England Patriots", "Pittsburgh Steelers", "New York Giants"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Who holds the NFL record for most career passing touchdowns?",
+  "choices": ["Tom Brady", "Drew Brees", "Peyton Manning", "Brett Favre"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Which team has the most Super Bowl wins?",
+  "choices": ["Pittsburgh Steelers", "New England Patriots", "Dallas Cowboys", "San Francisco 49ers"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Who was the 2023 NFL MVP?",
+  "choices": ["Patrick Mahomes", "Jalen Hurts", "Joe Burrow", "Josh Allen"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Which NFL player is nicknamed 'Megatron'?",
+  "choices": ["Calvin Johnson", "Julio Jones", "Larry Fitzgerald", "Odell Beckham Jr."],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Who is the all-time leading rusher in NFL history?",
+  "choices": ["Emmitt Smith", "Walter Payton", "Barry Sanders", "Adrian Peterson"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Which team drafted Peyton Manning?",
+  "choices": ["Indianapolis Colts", "Denver Broncos", "Tennessee Titans", "New York Giants"],
+  "answer": 0,
+  "sport": "NFL"
+},
+{
+  "question": "Who holds the MLB record for most career home runs?",
+  "choices": ["Babe Ruth", "Barry Bonds", "Hank Aaron", "Alex Rodriguez"],
+  "answer": 1,
+  "sport": "MLB"
+},
+{
+  "question": "Which MLB team has the most World Series titles?",
+  "choices": ["Boston Red Sox", "Los Angeles Dodgers", "New York Yankees", "St. Louis Cardinals"],
+  "answer": 2,
+  "sport": "MLB"
+},
+{
+  "question": "Who pitched a perfect game in the 2023 MLB season?",
+  "choices": ["Domingo Germán", "Shohei Ohtani", "Justin Verlander", "Max Scherzer"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Which MLB player is nicknamed 'The Kid'?",
+  "choices": ["Ken Griffey Jr.", "Mike Trout", "Derek Jeter", "Willie Mays"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Who has the most career hits in MLB history?",
+  "choices": ["Pete Rose", "Ty Cobb", "Ichiro Suzuki", "Derek Jeter"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Which team won the 2023 World Series?",
+  "choices": ["Texas Rangers", "Arizona Diamondbacks", "Houston Astros", "Philadelphia Phillies"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Who is the all-time MLB leader in stolen bases?",
+  "choices": ["Rickey Henderson", "Lou Brock", "Tim Raines", "Vince Coleman"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Which MLB pitcher has the most career strikeouts?",
+  "choices": ["Nolan Ryan", "Randy Johnson", "Roger Clemens", "Steve Carlton"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Who was the 2023 MLB MVP (AL)?",
+  "choices": ["Shohei Ohtani", "Aaron Judge", "Corey Seager", "Yordan Alvarez"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Which MLB team is known as 'The Bronx Bombers'?",
+  "choices": ["New York Yankees", "Boston Red Sox", "Chicago Cubs", "Los Angeles Dodgers"],
+  "answer": 0,
+  "sport": "MLB"
+},
+{
+  "question": "Which NBA player has the most career points?",
+  "choices": ["Kareem Abdul-Jabbar", "LeBron James", "Michael Jordan", "Karl Malone"],
+  "answer": 1,
+  "sport": "NBA"
+},
+{
+  "question": "Which NBA team won the 2023 NBA Finals?",
+  "choices": ["Miami Heat", "Denver Nuggets", "Golden State Warriors", "Boston Celtics"],
+  "answer": 1,
+  "sport": "NBA"
+},
+{
+  "question": "Which NBA player is known as 'The Greek Freak'?",
+  "choices": ["Giannis Antetokounmpo", "Luka Dončić", "Nikola Jokić", "Joel Embiid"],
+  "answer": 0,
+  "sport": "NBA"
+},
+{
+  "question": "Which NBA team has the most championships?",
+  "choices": ["Los Angeles Lakers", "Chicago Bulls", "Boston Celtics", "Golden State Warriors"],
+  "answer": 2,
+  "sport": "NBA"
+},
+{
+  "question": "Who is the NBA's all-time leader in assists?",
+  "choices": ["John Stockton", "Magic Johnson", "Jason Kidd", "Steve Nash"],
+  "answer": 0,
+  "sport": "NBA"
+},
+{
+  "question": "Who was the 2023 NBA MVP?",
+  "choices": ["Joel Embiid", "Nikola Jokić", "Giannis Antetokounmpo", "Luka Dončić"],
+  "answer": 0,
+  "sport": "NBA"
+},
+{
+  "question": "Which NBA player is nicknamed 'King James'?",
+  "choices": ["LeBron James", "Kevin Durant", "Stephen Curry", "Kawhi Leonard"],
+  "answer": 0,
+  "sport": "NBA"
+},
+{
+  "question": "Which team drafted Michael Jordan?",
+  "choices": ["Chicago Bulls", "Washington Wizards", "Los Angeles Lakers", "Boston Celtics"],
+  "answer": 0,
+  "sport": "NBA"
+},
+{
+  "question": "Who is the NBA's all-time leader in 3-pointers made?",
+  "choices": ["Stephen Curry", "Ray Allen", "James Harden", "Reggie Miller"],
+  "answer": 0,
+  "sport": "NBA"
+},
+{
+  "question": "Which NBA team is known as 'The Splash Brothers'?",
+  "choices": ["Golden State Warriors", "Los Angeles Lakers", "Miami Heat", "Boston Celtics"],
+  "answer": 0,
+  "sport": "NBA"
+},
+{
+  "question": "Who has won the most Grand Slam singles titles in tennis?",
+  "choices": ["Serena Williams", "Rafael Nadal", "Novak Djokovic", "Roger Federer"],
+  "answer": 2,
+  "sport": "Tennis"
+},
+{
+  "question": "Who won the 2023 Wimbledon Men's Singles?",
+  "choices": ["Carlos Alcaraz", "Novak Djokovic", "Daniil Medvedev", "Jannik Sinner"],
+  "answer": 0,
+  "sport": "Tennis"
+},
+{
+  "question": "Who won the 2023 US Open Women's Singles?",
+  "choices": ["Coco Gauff", "Aryna Sabalenka", "Iga Świątek", "Ons Jabeur"],
+  "answer": 0,
+  "sport": "Tennis"
+},
+{
+  "question": "Who is known as the 'King of Clay'?",
+  "choices": ["Rafael Nadal", "Roger Federer", "Novak Djokovic", "Andy Murray"],
+  "answer": 0,
+  "sport": "Tennis"
+},
+{
+  "question": "Who is the youngest ever Grand Slam singles champion?",
+  "choices": ["Martina Hingis", "Serena Williams", "Steffi Graf", "Monica Seles"],
+  "answer": 0,
+  "sport": "Tennis"
+},
+{
+  "question": "Who has the most Grand Slam doubles titles?",
+  "choices": ["Martina Navratilova", "Serena Williams", "Venus Williams", "Margaret Court"],
+  "answer": 0,
+  "sport": "Tennis"
+},
+{
+  "question": "Who won the 2023 Australian Open Men's Singles?",
+  "choices": ["Novak Djokovic", "Stefanos Tsitsipas", "Daniil Medvedev", "Rafael Nadal"],
+  "answer": 0,
+  "sport": "Tennis"
+},
+{
+  "question": "Who is the only player to win a Golden Slam?",
+  "choices": ["Steffi Graf", "Serena Williams", "Roger Federer", "Novak Djokovic"],
+  "answer": 0,
+  "sport": "Tennis"
+},
+{
+  "question": "Who is the all-time leader in men's Grand Slam finals appearances?",
+  "choices": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+  "answer": 2,
+  "sport": "Tennis"
+},
+{
+  "question": "Who is the youngest male player to win a Grand Slam?",
+  "choices": ["Michael Chang", "Boris Becker", "Rafael Nadal", "Pete Sampras"],
+  "answer": 0,
+  "sport": "Tennis"
+}
+] 
